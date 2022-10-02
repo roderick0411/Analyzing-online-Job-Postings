@@ -36,4 +36,4 @@ representation is tabular, but many of the columns are textual/unstructured in n
 notably, the columns jobDescription, JobRequirement, RequiredQual, ApplicationP and AboutC are
 textual. The column jobpost is an amalgamation of these various textual columns.
 
-### Refer to a [Sample job advertisement]()
+### Refer to a [Sample job advertisement](https://github.com/roderick0411/Analyzing-online-Job-Postings/blob/main/screenshot.jpg)
